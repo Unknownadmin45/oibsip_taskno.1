@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+  }
+  
+  #bg-red{
+    background: violet;
+    width:27%;
+    border: 5px solid rgb(98, 0, 98);
+    border-radius: 20px;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  #lastrow{
+    margin-bottom:30px;
+  }
